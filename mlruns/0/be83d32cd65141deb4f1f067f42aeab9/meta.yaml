@@ -1,0 +1,15 @@
+artifact_uri: file:///home/per/Sandbox/dvctest2/mlruns/0/be83d32cd65141deb4f1f067f42aeab9/artifacts
+end_time: 1742282154178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be83d32cd65141deb4f1f067f42aeab9
+run_name: trusting-gull-746
+run_uuid: be83d32cd65141deb4f1f067f42aeab9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742282154170
+status: 3
+tags: []
+user_id: per
